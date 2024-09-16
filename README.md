@@ -6,8 +6,8 @@ based on [R Markdown](https://rmarkdown.rstudio.com/).
 
 You can browse the published output of this project in these documents:
 
-* [Raw Storymapping Output](https://imerss.github.io/xetthecum-storymap-scrolly/Xetthecum-Storymap.html)
-* [Storymapping Reknitted into Scrollytelling Interface](https://imerss.github.io/xetthecum-storymap-scrolly/Xetthecum-Storymap-Reknitted.html)
+* [Raw Storymapping Output](https://imerss.github.io/xetthecum-storymap-scrolly-historical/Xetthecum-Storymap.html)
+* [Storymapping Reknitted into Scrollytelling Interface](https://imerss.github.io/xetthecum-storymap-scrolly-historical/Xetthecum-Storymap-Reknitted.html)
 
 This was built using R and R Markdown, using free tools such as git, R and R studio, and publish and host it for free using
 [GitHub Pages](https://pages.github.com/).
